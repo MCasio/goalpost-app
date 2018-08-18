@@ -12,4 +12,5 @@ let GOAL_CELL = "goalCell"
 let CREATE_GOAL_VC = "CreateGoalVC"
 let GOAL_VC = "GoalVC"
 let FINISH_GOAL_VC = "FinishGoalVC"
+let UNWIND = "unwindToGoalsVC"
 
